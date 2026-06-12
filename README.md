@@ -25,3 +25,10 @@ We can configure pipelines to run on the days we need:
 <div align="center">
   <img height="300" width="90%" src="triggers.png"  />
 </div>
+
+### 🔄 Workflow
+Pipeline workflow overview:
+
+<div align="center">
+  <img height="300" width="90%" src="workflow.png"  />
+</div>
